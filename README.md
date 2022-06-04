@@ -1,1 +1,1 @@
-# dio-git-github-challange
+# Repository created to complete the Git and GitHub project on the DIO - Digital Information One course.
